@@ -1,5 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Shrinivas Kagwade</h1>
-<h3 align="center">ASP.NET Core Full Stack Developer | React.js | SQL Server</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=220&section=header&text=Shrinivas%20Kagwade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ASP.NET%20Core%20%7C%20React.js%20%7C%20SQL%20Server&descAlignY=55&descSize=20" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shrini9354&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Shrini9354?label=Followers&style=flat&color=2F80ED" alt="Followers" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Clean+Architecture+%26+CQRS+Enthusiast;React.js+%7C+ASP.NET+Core+%7C+SQL+Server;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -94,6 +98,24 @@ A web app that generates images from user prompts using an AI image generation A
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrini9354&theme=dracula&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shrini9354/Shrini9354/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚠️ The snake animation needs one extra setup step below (it's not automatic like the other widgets).
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -110,3 +132,5 @@ A web app that generates images from user prompts using an AI image generation A
 <p align="center">
   📫 Reach me at <b>shrinivaskagwade@gmail.com</b> | 📱 9518372832
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B51E0,100:2F80ED&height=120&section=footer" />
