@@ -16,22 +16,22 @@
   <a href="tel:+919518372832"><img src="https://img.shields.io/badge/PHONE-00ff41?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=000000"></a>
 </p>
 
-```bash
+\`\`\`bash
 $ cat about.md
-```
+\`\`\`
 
-- `[root@shrinivas]#` Pursuing **B.E. in Computer Science and Engineering** — CGPA: 9.4
-- `[root@shrinivas]#` Software Developer Trainee (Virtual) @ **Futuremind Infotech Solutions**, Mumbai
-- `[root@shrinivas]#` Building secure, scalable apps with **ASP.NET Core**, **React.js**, **SQL Server**
-- `[root@shrinivas]#` Applying **Clean Architecture**, **CQRS + MediatR**, **SOLID principles**
-- `[root@shrinivas]#` Compiling new skills daily... `[ OK ]`
-- `[root@shrinivas]#` Idle time: reading spiritual books, watching cricket
+- \`[root@shrinivas]#\` Pursuing **B.E. in Computer Science and Engineering** — CGPA: 9.4
+- \`[root@shrinivas]#\` Software Developer Trainee (Virtual) @ **Futuremind Infotech Solutions**, Mumbai
+- \`[root@shrinivas]#\` Building secure, scalable apps with **ASP.NET Core**, **React.js**, **SQL Server**
+- \`[root@shrinivas]#\` Applying **Clean Architecture**, **CQRS + MediatR**, **SOLID principles**
+- \`[root@shrinivas]#\` Compiling new skills daily... \`[ OK ]\`
+- \`[root@shrinivas]#\` Idle time: reading spiritual books, watching cricket
 
 ---
 
-```bash
+\`\`\`bash
 $ ls -la ./tech-stack
-```
+\`\`\`
 
 **Languages**
 <p>
@@ -73,11 +73,11 @@ $ ls -la ./tech-stack
 
 ---
 
-```bash
+\`\`\`bash
 $ ./run --list-projects
-```
+\`\`\`
 
-### `[ 01 ]` [BusinessHub — Enterprise Multi-Tenant SaaS Platform](https://github.com/Shrini9354/BusinessHub)
+### \`[ 01 ]\` [BusinessHub — Enterprise Multi-Tenant SaaS Platform](https://github.com/Shrini9354/BusinessHub)
 > Multi-tenant SaaS platform with complete data isolation across organizations.
 - Employee, Department, Attendance, Leave, Payroll, Recruitment & RBAC modules
 - Secure REST APIs — **ASP.NET Core**, **Clean Architecture**, **CQRS + MediatR**
@@ -85,28 +85,28 @@ $ ./run --list-projects
 - Scalable **SQL Server** schema via **EF Core** + Repository Pattern
 - Analytics dashboards, reporting, document management
 
-`ASP.NET Core` `React.js` `SQL Server` `EF Core` `JWT` `CQRS`
+\`ASP.NET Core\` \`React.js\` \`SQL Server\` \`EF Core\` \`JWT\` \`CQRS\`
 
-### `[ 02 ]` [AI Image Generator](https://github.com/Shrini9354/AI-Image-Generator)
+### \`[ 02 ]\` [AI Image Generator](https://github.com/Shrini9354/AI-Image-Generator)
 > Generates images from user prompts via an AI image generation API.
 
-`HTML` `CSS` `JavaScript`
+\`HTML\` \`CSS\` \`JavaScript\`
 
 ---
 
-```bash
+\`\`\`bash
 $ cat certifications.log
-```
+\`\`\`
 
-- `[ OK ]` Full Stack Development — Apna College
-- `[ OK ]` Java DSA — Apna College
-- `[ OK ]` Experiential Learning
+- \`[ OK ]\` Full Stack Development — Apna College
+- \`[ OK ]\` Java DSA — Apna College
+- \`[ OK ]\` Experiential Learning
 
 ---
 
-```bash
+\`\`\`bash
 $ ./fetch --trophies
-```
+\`\`\`
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shrini9354&theme=matrix&no-frame=true&row=1&column=7" alt="trophies" />
@@ -114,9 +114,9 @@ $ ./fetch --trophies
 
 ---
 
-```bash
+\`\`\`bash
 $ ./run snake.exe
-```
+\`\`\`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shrini9354/Shrini9354/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -124,9 +124,9 @@ $ ./run snake.exe
 
 ---
 
-```bash
+\`\`\`bash
 $ ./fetch --stats
-```
+\`\`\`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrini9354&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="165">
@@ -139,9 +139,9 @@ $ ./fetch --stats
 
 ---
 
-```bash
+\`\`\`bash
 $ echo "connection established"
 > shrinivaskagwade@gmail.com | +91 9518372832
-```
+\`\`\`
 
 <img width="100%" src="https://raw.githubusercontent.com/Shrini9354/Shrini9354/main/banner_hacker_footer.svg" />
