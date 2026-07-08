@@ -1,3 +1,4 @@
+<img width="100%" src="https://raw.githubusercontent.com/Shrini9354/Shrini9354/main/banner.svg" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=220&section=header&text=Shrinivas%20Kagwade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ASP.NET%20Core%20%7C%20React.js%20%7C%20SQL%20Server&descAlignY=55&descSize=20" />
 
 <p align="center">
