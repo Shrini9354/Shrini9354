@@ -1,0 +1,41 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b2e"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f8ef7"/>
+      <stop offset="100%" stop-color="#9b6df7"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2a3050" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="80%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#4f8ef7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#4f8ef7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <circle cx="1080" cy="70" r="3" fill="#4f8ef7" opacity="0.8"/>
+  <circle cx="1120" cy="150" r="2" fill="#9b6df7" opacity="0.7"/>
+  <circle cx="1000" cy="220" r="2.5" fill="#4f8ef7" opacity="0.6"/>
+  <circle cx="150" cy="60" r="2" fill="#9b6df7" opacity="0.5"/>
+  <circle cx="90" cy="230" r="2.5" fill="#4f8ef7" opacity="0.5"/>
+
+  <path d="M 950 40 L 1150 40" stroke="#2a3050" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 950 40 L 950 260" stroke="#2a3050" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 950 260 L 1150 260" stroke="#2a3050" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 1150 40 L 1150 260" stroke="#2a3050" stroke-width="1.5" opacity="0.6"/>
+
+  <text x="80" y="130" font-family="Consolas, Monaco, monospace" font-size="48" font-weight="700" fill="url(#textGrad)">Shrinivas Kagwade</text>
+  <text x="80" y="175" font-family="Consolas, Monaco, monospace" font-size="22" fill="#8b93b0">ASP.NET Core &#8226; React.js &#8226; SQL Server</text>
+
+  <text x="80" y="220" font-family="Consolas, Monaco, monospace" font-size="16" fill="#4f8ef7">&lt;</text>
+  <text x="95" y="220" font-family="Consolas, Monaco, monospace" font-size="16" fill="#9b6df7">Full Stack Developer</text>
+  <text x="255" y="220" font-family="Consolas, Monaco, monospace" font-size="16" fill="#4f8ef7">/&gt;</text>
+</svg>
